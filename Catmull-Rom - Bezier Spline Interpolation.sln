@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B6616690-8F05-BBC3-1387-2DADF7951FFA}") = "Catmull-Rom - Bezier Spline Interpolation", "Assembly-CSharp.csproj", "{3E43795C-0A37-8B41-CF30-DA3D24EE018E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E43795C-0A37-8B41-CF30-DA3D24EE018E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E43795C-0A37-8B41-CF30-DA3D24EE018E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E43795C-0A37-8B41-CF30-DA3D24EE018E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E43795C-0A37-8B41-CF30-DA3D24EE018E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
